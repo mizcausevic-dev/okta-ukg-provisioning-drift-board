@@ -1,0 +1,10 @@
+{
+  "name": "okta-ukg-provisioning-drift-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Provisioning drift board for Okta app access and UKG worker-state mismatches.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
